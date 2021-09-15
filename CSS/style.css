@@ -1,0 +1,59 @@
+
+ 
+div {
+	font-size: 25px;
+	color: blue;
+	background-color: blue;
+	width: 300px;
+	height: auto;
+	border: 6px solid;
+	border-radius: 20px;
+}
+
+ 
+input{width:200px;
+	   height:40px;
+	   border:solid;
+	   border-radius:12px;
+	  }
+select
+	{width:200px;
+	   height:40px;
+	   border:solid;
+	   border-radius:12px;
+	  }
+	   
+ a {
+	color:white;
+	float: centre;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+   }
+   
+  
+   
+ a:hover {
+    background-color: red;
+    color: black;
+}
+	
+ 
+ .divbox{width: 250px;
+    border: 5px solid black;
+	border-radius:8px;
+    padding: 30px;
+
+	background-color:navy;
+	
+	width: 80%;
+    border-radius: 15px; /* Rounded border */
+    margin: 0 auto; /* Center the coupon */
+    width: 210px;
+	
+	position: relative;
+    bottom: 1;
+    right: 1;
+     
+	  	}
