@@ -1,2 +1,1 @@
-# web_dev_php
-Company Assignments &amp; Common Web Codes in PHP
+Basic code for sign in and sign up in PHP.
